@@ -2,6 +2,10 @@
 
 Simple landing page with sliding menu and modal
 
+## Demo
+
+🔗 https://tinasay.github.io/modal-menu-slider
+
 ## Project Specifications
 
 - Create and style landing page
